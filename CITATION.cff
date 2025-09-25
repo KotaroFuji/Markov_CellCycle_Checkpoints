@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Markov_CellCycle_Checkpoints
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Kotaro
+    family-names: Fujimaki
+    email: kotaro_fujimaki@hms.harvard.edu
+    affiliation: Harvard Medical School
+    orcid: 'https://orcid.org/0000-0001-8210-2585'
+repository-code: 'https://github.com/KotaroFuji/Markov_CellCycle_Checkpoints'
+abstract: >-
+  The repository contains codes to run Markov chain-like
+  model that simulates cell cycle state transitions under
+  DNA damage
+keywords:
+  - Cell cycle
+  - DNA damage
+  - Checkpoints
+license: CC-BY-NC-ND-4.0
